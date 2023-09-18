@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/around-react_es/static/css/main.fa847837.css",
-    "main.js": "/around-react_es/static/js/main.b71f288e.js",
+    "main.css": "/around-react_es/static/css/main.f18c131a.css",
+    "main.js": "/around-react_es/static/js/main.b1656e95.js",
     "static/js/787.33e33395.chunk.js": "/around-react_es/static/js/787.33e33395.chunk.js",
     "static/media/Inter-SemiBold.woff?v=3.19": "/around-react_es/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
     "static/media/Inter-Black.woff?v=3.19": "/around-react_es/static/media/Inter-Black.c6938660eec019fefd68.woff",
@@ -10,12 +10,12 @@
     "static/media/Inter-Black.woff2?v=3.19": "/around-react_es/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
     "static/media/Inter-Regular.woff2?v=3.19": "/around-react_es/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "index.html": "/around-react_es/index.html",
-    "main.fa847837.css.map": "/around-react_es/static/css/main.fa847837.css.map",
-    "main.b71f288e.js.map": "/around-react_es/static/js/main.b71f288e.js.map",
+    "main.f18c131a.css.map": "/around-react_es/static/css/main.f18c131a.css.map",
+    "main.b1656e95.js.map": "/around-react_es/static/js/main.b1656e95.js.map",
     "787.33e33395.chunk.js.map": "/around-react_es/static/js/787.33e33395.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa847837.css",
-    "static/js/main.b71f288e.js"
+    "static/css/main.f18c131a.css",
+    "static/js/main.b1656e95.js"
   ]
 }
